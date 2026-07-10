@@ -4,8 +4,6 @@
 - 📧 Contate-me no e-mail: guilherme.zermianitec@gmail.com
 
 ![guizermiani's Stats](https://github-readme-stats.vercel.app/api?username=guizermiani&theme=dark&show_icons=true&hide_border=true&count_private=true) ![guizermiani's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guizermiani&theme=dark&hide_border=true)
-![guizermiani's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guizermiani&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
